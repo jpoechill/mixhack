@@ -1,0 +1,44 @@
+{
+  "en": {
+    "title": "MixHack",
+    "subtitle": "Cambodia's AI & Hacking Community",
+    "submit": "submit",
+    "login": "login",
+    "more": "More",
+    "search": "Search MixHack...",
+    "points": "points",
+    "by": "by",
+    "comments": "comments",
+    "addComment": "Add comment...",
+    "reply": "Reply",
+    "showComments": "Show comments",
+    "hideComments": "Hide comments",
+    "footer": {
+      "submit": "Submit",
+      "about": "About",
+      "contact": "Contact",
+      "github": "GitHub"
+    }
+  },
+  "km": {
+    "title": "មីកស៊ហាក់",
+    "subtitle": "សហគមន៍ AI និងការដោះស្រាយបញ្ហាកុំព្យូទ័រនៅកម្ពុជា",
+    "submit": "ដាក់ស្នើ",
+    "login": "ចូល",
+    "more": "បន្ថែម",
+    "search": "ស្វែងរក មីកស៊ហាក់...",
+    "points": "ពិន្ទុ",
+    "by": "ដោយ",
+    "comments": "មតិត្រឡប់",
+    "addComment": "បន្ថែមមតិត្រឡប់...",
+    "reply": "ឆ្លើយតប",
+    "showComments": "បង្ហាញមតិត្រឡប់",
+    "hideComments": "លាក់មតិត្រឡប់",
+    "footer": {
+      "submit": "ដាក់ស្នើ",
+      "about": "អំពី",
+      "contact": "ទាក់ទង",
+      "github": "GitHub"
+    }
+  }
+} 

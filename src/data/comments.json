@@ -1,0 +1,112 @@
+{
+  "en": {
+    "1": [
+      { "id": 1, "author": "Sok Vannary", "text": "This is really useful for processing Khmer documents!", "timeAgo": "1 hour ago", "upvotes": 5 },
+      { "id": 2, "author": "Dara Rithy", "text": "Great work! Have you tested it with handwritten text?", "timeAgo": "30 min ago", "upvotes": 3 },
+      { "id": 3, "author": "Vannary Sok", "text": "The accuracy is impressive. Can it handle different fonts?", "timeAgo": "15 min ago", "upvotes": 2 }
+    ],
+    "2": [
+      { "id": 1, "author": "Chan Sokha", "text": "This could really help preserve our heritage sites.", "timeAgo": "2 hours ago", "upvotes": 8 },
+      { "id": 2, "author": "Sokha Vannary", "text": "What drone models work best with this system?", "timeAgo": "1 hour ago", "upvotes": 4 }
+    ],
+    "3": [
+      { "id": 1, "author": "Rithy Sok", "text": "Perfect for tourists visiting Cambodia!", "timeAgo": "3 hours ago", "upvotes": 12 },
+      { "id": 2, "author": "Srey Chan", "text": "Does it support voice input?", "timeAgo": "2 hours ago", "upvotes": 6 }
+    ],
+    "21": [
+      { "id": 1, "author": "Rithy Sokha", "text": "This could revolutionize rural healthcare in Cambodia.", "timeAgo": "1 hour ago", "upvotes": 7 },
+      { "id": 2, "author": "Vannary Dara", "text": "Can it work with traditional medical equipment?", "timeAgo": "30 min ago", "upvotes": 4 }
+    ],
+    "22": [
+      { "id": 1, "author": "Sopheak Chan", "text": "This helped me learn Khmer grammar so much!", "timeAgo": "2 hours ago", "upvotes": 9 },
+      { "id": 2, "author": "Chan Sok", "text": "The explanations are very clear and helpful.", "timeAgo": "1 hour ago", "upvotes": 5 }
+    ],
+    "23": [
+      { "id": 1, "author": "Sokha Vannary", "text": "This helps me make better decisions about selling rice.", "timeAgo": "3 hours ago", "upvotes": 12 },
+      { "id": 2, "author": "Dara Rithy", "text": "Can it predict prices for other agricultural products?", "timeAgo": "2 hours ago", "upvotes": 6 }
+    ],
+    "24": [
+      { "id": 1, "author": "Vannary Sok", "text": "This AR technology can create new experiences for tourists.", "timeAgo": "1 hour ago", "upvotes": 8 },
+      { "id": 2, "author": "Sok Chan", "text": "I want to try this when visiting Angkor Wat.", "timeAgo": "30 min ago", "upvotes": 4 }
+    ],
+    "25": [
+      { "id": 1, "author": "Chan Sopheak", "text": "This helps me know when buses arrive much better.", "timeAgo": "2 hours ago", "upvotes": 10 },
+      { "id": 2, "author": "Rithy Vannary", "text": "This system can help improve public transportation.", "timeAgo": "1 hour ago", "upvotes": 6 }
+    ],
+    "26": [
+      { "id": 1, "author": "Sopheak Sokha", "text": "This helps create accessibility for hearing impaired people.", "timeAgo": "3 hours ago", "upvotes": 15 },
+      { "id": 2, "author": "Dara Chan", "text": "It can help in teaching Khmer sign language.", "timeAgo": "2 hours ago", "upvotes": 7 }
+    ],
+    "27": [
+      { "id": 1, "author": "Vannary Sok", "text": "This early warning system can save many lives.", "timeAgo": "1 hour ago", "upvotes": 18 },
+      { "id": 2, "author": "Sokha Rithy", "text": "Can it integrate with national warning systems?", "timeAgo": "30 min ago", "upvotes": 9 }
+    ],
+    "28": [
+      { "id": 1, "author": "Chan Sokha", "text": "This code editor with Khmer language helps me code much better.", "timeAgo": "2 hours ago", "upvotes": 11 },
+      { "id": 2, "author": "Sopheak Vannary", "text": "Syntax highlighting with Khmer makes learning code easier.", "timeAgo": "1 hour ago", "upvotes": 6 }
+    ],
+    "29": [
+      { "id": 1, "author": "Rithy Vannary", "text": "This API can help create many Khmer news applications.", "timeAgo": "3 hours ago", "upvotes": 8 },
+      { "id": 2, "author": "Dara Sok", "text": "Does it have news from other sources?", "timeAgo": "2 hours ago", "upvotes": 4 }
+    ],
+    "30": [
+      { "id": 1, "author": "Chan Sokha", "text": "This AI can help preserve Khmer dance culture.", "timeAgo": "1 hour ago", "upvotes": 13 },
+      { "id": 2, "author": "Sok Vannary", "text": "It can help teach traditional dance movements.", "timeAgo": "30 min ago", "upvotes": 7 }
+    ]
+  },
+  "km": {
+    "1": [
+      { "id": 1, "author": "សុខ វណ្ណារី", "text": "នេះពិតជាមានប្រយោជន៍ណាស់សម្រាប់ការដំណើរការឯកសារខ្មែរ!", "timeAgo": "១ម៉ោងមុន", "upvotes": 5 },
+      { "id": 2, "author": "ដារ៉ា រិទ្ធី", "text": "ការងារល្អ! តើអ្នកបានធ្វើតេស្តជាមួយអត្ថបទដែលសរសេរដោយដៃឬនៅ?", "timeAgo": "៣០នាទីមុន", "upvotes": 3 },
+      { "id": 3, "author": "វណ្ណារី សុខ", "text": "ភាពត្រឹមត្រូវគឺគួរឱ្យចាប់អារម្មណ៍។ តើវាអាចដោះស្រាយអក្សរប្រភេទផ្សេងៗបានទេ?", "timeAgo": "១៥នាទីមុន", "upvotes": 2 }
+    ],
+    "2": [
+      { "id": 1, "author": "ចាន់ សុខា", "text": "នេះអាចជួយរក្សាទុកកន្លែងមរតករបស់យើងបានពិតៗ។", "timeAgo": "២ម៉ោងមុន", "upvotes": 8 },
+      { "id": 2, "author": "សុខា វណ្ណារី", "text": "គំរូដ្រុនណាដែលដំណើរការល្អបំផុតជាមួយប្រព័ន្ធនេះ?", "timeAgo": "១ម៉ោងមុន", "upvotes": 4 }
+    ],
+    "3": [
+      { "id": 1, "author": "រិទ្ធី សុខ", "text": "ល្អឥតខ្ចោះសម្រាប់អ្នកទេសចរដែលមកទស្សនាកម្ពុជា!", "timeAgo": "៣ម៉ោងមុន", "upvotes": 12 },
+      { "id": 2, "author": "ស្រែ ចាន់", "text": "តើវាគាំទ្រការបញ្ចូលសំឡេងទេ?", "timeAgo": "២ម៉ោងមុន", "upvotes": 6 }
+    ],
+    "21": [
+      { "id": 1, "author": "រិទ្ធី សុខា", "text": "នេះអាចជួយបង្កើតបដិវត្តន៍ក្នុងការថែទាំ់សុខភាពជនបទ។", "timeAgo": "១ម៉ោងមុន", "upvotes": 7 },
+      { "id": 2, "author": "វណ្ណារី ដារ៉ា", "text": "តើវាអាចដំណើរការជាមួយឧបករណ៍វេជ្ជសាស្ត្របុរាណបានទេ?", "timeAgo": "៣០នាទីមុន", "upvotes": 4 }
+    ],
+    "22": [
+      { "id": 1, "author": "សូផល ចាន់", "text": "ជួយខ្ញុំរៀនវេយ្យាករណ៍ខ្មែរបានច្រើន!", "timeAgo": "២ម៉ោងមុន", "upvotes": 9 },
+      { "id": 2, "author": "ចាន់ សុខ", "text": "ការពន្យល់វាក់ច្បាស់លាស់ណាស់។", "timeAgo": "១ម៉ោងមុន", "upvotes": 5 }
+    ],
+    "23": [
+      { "id": 1, "author": "សុខា វណ្ណារី", "text": "នេះជួយខ្ញុំធ្វើការសម្រេចចិត្តលើការលក់ស្រូវបានច្រើន។", "timeAgo": "៣ម៉ោងមុន", "upvotes": 12 },
+      { "id": 2, "author": "ដារ៉ា រិទ្ធី", "text": "តើវាអាចទាយតម្លៃផលិតផលកសិកម្មផ្សេងទៀតបានទេ?", "timeAgo": "២ម៉ោងមុន", "upvotes": 6 }
+    ],
+    "24": [
+      { "id": 1, "author": "វណ្ណារី សុខ", "text": "បច្ចេកវិទ្យា AR នេះអាចបង្កើតបទពិសោធន៍ថ្មីសម្រាប់អ្នកទេសចរ។", "timeAgo": "១ម៉ោងមុន", "upvotes": 8 },
+      { "id": 2, "author": "សុខ ចាន់", "text": "ខ្ញុំចង់សាកល្បងវានៅពេលមកទស្សនាអង្គរវត្ត។", "timeAgo": "៣០នាទីមុន", "upvotes": 4 }
+    ],
+    "25": [
+      { "id": 1, "author": "ចាន់ សូផល", "text": "នេះជួយខ្ញុំដឹងពេលវេលាឡានក្រុងមកដល់បានច្រើន។", "timeAgo": "២ម៉ោងមុន", "upvotes": 10 },
+      { "id": 2, "author": "រិទ្ធី វណ្ណារី", "text": "ប្រព័ន្ធនេះអាចជួយកែលម្អការដឹកជញ្ជូនសាធារណៈ។", "timeAgo": "១ម៉ោងមុន", "upvotes": 6 }
+    ],
+    "26": [
+      { "id": 1, "author": "សូផល សុខា", "text": "នេះជួយបង្កើតភាពអាចចូលបានសម្រាប់អ្នកពិការសំឡេង។", "timeAgo": "៣ម៉ោងមុន", "upvotes": 15 },
+      { "id": 2, "author": "ដារ៉ា ចាន់", "text": "វាអាចជួយក្នុងការអប់រំភាសាសញ្ញាខ្មែរ។", "timeAgo": "២ម៉ោងមុន", "upvotes": 7 }
+    ],
+    "27": [
+      { "id": 1, "author": "វណ្ណារី សុខ", "text": "ការព្រមានដើមនេះអាចជួយរក្សាជីវិតបានច្រើន។", "timeAgo": "១ម៉ោងមុន", "upvotes": 18 },
+      { "id": 2, "author": "សុខា រិទ្ធី", "text": "តើវាអាចភ្ជាប់ជាមួយប្រព័ន្ធព្រមានជាតិបានទេ?", "timeAgo": "៣០នាទីមុន", "upvotes": 9 }
+    ],
+    "28": [
+      { "id": 1, "author": "ចាន់ សុខា", "text": "កម្មវិធីកែសម្រួលកូដជាមួយភាសាខ្មែរនេះជួយខ្ញុំបង្កើតកូដបានច្រើន។", "timeAgo": "២ម៉ោងមុន", "upvotes": 11 },
+      { "id": 2, "author": "សូផល វណ្ណារី", "text": "ការបន្លិចវាក់ជាមួយភាសាខ្មែរធ្វើឱ្យការរៀនកូដងាយជាង។", "timeAgo": "១ម៉ោងមុន", "upvotes": 6 }
+    ],
+    "29": [
+      { "id": 1, "author": "រិទ្ធី វណ្ណារី", "text": "API នេះអាចជួយបង្កើតកម្មវិធីព័ត៌មានខ្មែរបានច្រើន។", "timeAgo": "៣ម៉ោងមុន", "upvotes": 8 },
+      { "id": 2, "author": "ដារ៉ា សុខ", "text": "តើវាមានព័ត៌មានពីប្រភពផ្សេងទៀតបានទេ?", "timeAgo": "២ម៉ោងមុន", "upvotes": 4 }
+    ],
+    "30": [
+      { "id": 1, "author": "ចាន់ សុខា", "text": "AI នេះអាចជួយរក្សាទុកវប្បធម៌រាំខ្មែរបានច្រើន។", "timeAgo": "១ម៉ោងមុន", "upvotes": 13 },
+      { "id": 2, "author": "សុខ វណ្ណារី", "text": "វាអាចជួយបង្រៀនចលនារាំបុរាណបានច្រើន។", "timeAgo": "៣០នាទីមុន", "upvotes": 7 }
+    ]
+  }
+} 
